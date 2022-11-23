@@ -1,4 +1,4 @@
-# cs330_PA
+# cs330_PA - Tekale, Aditya - A20517287
 
 The language of this program is Python. The code above simulates a security system used in everyday use. The system has a keypad with ten keys, labeled from '0' to '9'. The security engine will unlock the lock when it finds the correct un-locking access code in the input string. Likewise, the security engine will lock the lock when it finds the correct locking access code in the input string.
 
